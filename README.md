@@ -6,6 +6,7 @@ Convers the Dsa progress
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vedant-kumar-27/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -16,6 +17,7 @@ Convers the Dsa progress
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vedant-kumar-27/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |

@@ -7,6 +7,7 @@ Convers the Dsa progress
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0485-max-consecutive-ones](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -28,9 +29,14 @@ Convers the Dsa progress
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

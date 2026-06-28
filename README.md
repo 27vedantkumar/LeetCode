@@ -7,6 +7,7 @@ Convers the Dsa progress
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -38,5 +39,10 @@ Convers the Dsa progress
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

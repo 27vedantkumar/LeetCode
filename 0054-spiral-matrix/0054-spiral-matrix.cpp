@@ -4,10 +4,7 @@ public:
         int m=matrix.size();
         int n=matrix[0].size();
         vector<int>ans;
-        int left=0;
-        int right=n-1;
-        int top=0;
-        int bottom=m-1;
+        int left=0,right=n-1,top=0,bottom=m-1;
         while(top<=bottom && left<=right) {
             for(int i=left;i<=right;i++) {
                 ans.push_back(matrix[top][i]);

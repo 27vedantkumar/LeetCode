@@ -1,9 +1,8 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int count1=0;int count2=0;
-        int el1=INT_MIN;
-        int el2=INT_MIN;
+        int count1=0,count2=0;
+        int el1=INT_MIN,el2=INT_MIN;
         for(int i=0;i<nums.size();i++) {
             if(count1==0 && el2!=nums[i]) {
                 count1=1;

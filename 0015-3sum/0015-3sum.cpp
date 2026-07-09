@@ -20,7 +20,7 @@ public:
                     while(j<k && nums[k] == nums[k+1]) k--;
                 }
             }
-        }
+        } // for loop
         return ans;
     }
 };

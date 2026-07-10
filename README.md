@@ -21,6 +21,7 @@ Convers the Dsa progress
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0645-set-mismatch) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vedant-kumar-27/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@ Convers the Dsa progress
 | [0128-longest-consecutive-sequence](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0645-set-mismatch) |
 ## Union-Find
 |  |
 | ------- |
@@ -78,8 +80,13 @@ Convers the Dsa progress
 | [0056-merge-intervals](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->

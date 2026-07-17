@@ -73,6 +73,7 @@ Convers the Dsa progress
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0048-rotate-image) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant-kumar-27/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,4 +125,8 @@ Convers the Dsa progress
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0344-reverse-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant-kumar-27/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

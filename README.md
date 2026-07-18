@@ -43,6 +43,7 @@ Convers the Dsa progress
 | [0027-remove-element](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vedant-kumar-27/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -124,6 +125,7 @@ Convers the Dsa progress
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0344-reverse-string) |
 ## Number Theory
 |  |

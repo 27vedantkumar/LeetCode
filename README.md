@@ -26,6 +26,7 @@ Convers the Dsa progress
 | [0493-reverse-pairs](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -93,6 +94,7 @@ Convers the Dsa progress
 | ------- |
 | [0035-search-insert-position](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |

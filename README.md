@@ -50,6 +50,7 @@ Convers the Dsa progress
 | [0031-next-permutation](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vedant-kumar-27/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -139,6 +140,7 @@ Convers the Dsa progress
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0344-reverse-string) |
 ## Number Theory
 |  |

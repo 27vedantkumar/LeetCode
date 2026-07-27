@@ -154,6 +154,7 @@ Convers the Dsa progress
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Number Theory
@@ -172,4 +173,8 @@ Convers the Dsa progress
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

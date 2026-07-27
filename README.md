@@ -56,6 +56,7 @@ Convers the Dsa progress
 | [0125-valid-palindrome](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vedant-kumar-27/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -73,6 +74,7 @@ Convers the Dsa progress
 | [0128-longest-consecutive-sequence](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0645-set-mismatch) |
 ## Union-Find
 |  |
@@ -150,8 +152,13 @@ Convers the Dsa progress
 | [0125-valid-palindrome](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0567-permutation-in-string) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant-kumar-27/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

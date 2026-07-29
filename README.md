@@ -77,6 +77,7 @@ Covers the Dsa progress
 | [0128-longest-consecutive-sequence](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0645-set-mismatch) |
@@ -123,6 +124,7 @@ Covers the Dsa progress
 | [0056-merge-intervals](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -160,6 +162,7 @@ Covers the Dsa progress
 | [0125-valid-palindrome](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0796-rotate-string) |

@@ -1,5 +1,5 @@
 # LeetCode
-Convers the Dsa progress
+Covers the Dsa progress
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

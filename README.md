@@ -95,6 +95,7 @@ Covers the Dsa progress
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant-kumar-27/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -109,6 +110,7 @@ Covers the Dsa progress
 | [0033-search-in-rotated-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |

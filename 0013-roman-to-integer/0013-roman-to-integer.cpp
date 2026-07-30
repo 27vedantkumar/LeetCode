@@ -1,7 +1,7 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        static int val[128] = {
+        static const int val[128] = {
             ['I']=1,
             ['V']=5,
             ['X']=10,

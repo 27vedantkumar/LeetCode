@@ -73,6 +73,7 @@ Covers the Dsa progress
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -97,6 +98,7 @@ Covers the Dsa progress
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -166,6 +168,7 @@ Covers the Dsa progress
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0151-reverse-words-in-a-string) |

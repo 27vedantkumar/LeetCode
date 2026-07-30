@@ -173,6 +173,7 @@ Covers the Dsa progress
 | [0567-permutation-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Number Theory
 |  |
@@ -190,6 +191,7 @@ Covers the Dsa progress
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |

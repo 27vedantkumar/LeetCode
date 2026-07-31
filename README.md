@@ -45,12 +45,14 @@ Covers the Dsa progress
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0027-remove-element) |
@@ -167,6 +169,7 @@ Covers the Dsa progress
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0013-roman-to-integer) |

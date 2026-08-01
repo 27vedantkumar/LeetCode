@@ -8,7 +8,7 @@ public:
         }
         return maxi;
     }
-    int calculateTotalHours(vector<int> &v,int hour) {
+    long long calculateTotalHours(vector<int> &v,int hour) {
         long long totalH=0;
         int n=v.size();
         for(int i=0;i<n;i++) {
@@ -19,8 +19,8 @@ public:
     int minEatingSpeed(vector<int>& piles, int h) {
         int low=1,high=findMax(piles);
         while(low<=high) {
-            int mid=(low+high)/2;
-            int totalH=calculateTotalHours(piles,mid);
+            int mid=low+(high-low)/2;
+            long long totalH=calculateTotalHours(piles,mid);
             if(totalH<=h) high=mid-1;
             else low=mid+1;
         }

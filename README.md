@@ -36,6 +36,7 @@ Covers the Dsa progress
 | [0645-set-mismatch](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -50,6 +51,7 @@ Covers the Dsa progress
 | [0118-pascals-triangle](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Covers the Dsa progress
 | [0013-roman-to-integer](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0069-sqrtx) |
+| [0877-stone-game](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant-kumar-27/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -223,4 +226,8 @@ Covers the Dsa progress
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

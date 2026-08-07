@@ -47,6 +47,7 @@ Covers the Dsa progress
 | [1480-running-sum-of-1d-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/27vedantkumar/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vedant-kumar-27/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -108,6 +109,7 @@ Covers the Dsa progress
 | [0073-set-matrix-zeroes](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/27vedantkumar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/27vedantkumar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/27vedantkumar/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Covers the Dsa progress
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/27vedantkumar/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |

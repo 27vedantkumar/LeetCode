@@ -249,4 +249,12 @@ Covers the Dsa progress
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/27vedantkumar/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/27vedantkumar/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

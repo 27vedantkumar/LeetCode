@@ -118,6 +118,7 @@ Covers the Dsa progress
 | [0013-roman-to-integer](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/27vedantkumar/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -140,6 +141,7 @@ Covers the Dsa progress
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/27vedantkumar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/27vedantkumar/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0704-binary-search) |

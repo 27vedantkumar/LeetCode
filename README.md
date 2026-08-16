@@ -6,6 +6,7 @@ Covers the Dsa progress
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/27vedantkumar/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0018-4sum) |
@@ -86,6 +87,7 @@ Covers the Dsa progress
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/27vedantkumar/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0041-first-missing-positive) |

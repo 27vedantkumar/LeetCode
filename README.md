@@ -273,4 +273,8 @@ Covers the Dsa progress
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/27vedantkumar/LeetCode/tree/master/0509-fibonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/27vedantkumar/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

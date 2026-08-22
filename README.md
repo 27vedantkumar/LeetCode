@@ -126,6 +126,7 @@ Covers the Dsa progress
 | [0877-stone-game](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/27vedantkumar/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant-kumar-27/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |

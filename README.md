@@ -96,6 +96,7 @@ Covers the Dsa progress
 | [0205-isomorphic-strings](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/27vedantkumar/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0567-permutation-in-string) |
@@ -173,6 +174,7 @@ Covers the Dsa progress
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/27vedantkumar/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vedant-kumar-27/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
@@ -214,6 +216,7 @@ Covers the Dsa progress
 | [0205-isomorphic-strings](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/27vedantkumar/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0796-rotate-string) |

@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        int freq[26]={0};
+        vector<int> freq(26,0);
         for(char c:magazine) {
             freq[c-'a']++;
         }

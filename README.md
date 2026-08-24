@@ -121,6 +121,7 @@ Covers the Dsa progress
 | [0012-integer-to-roman](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/27vedantkumar/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/27vedantkumar/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/27vedantkumar/LeetCode/tree/master/0509-fibonacci-number) |
@@ -272,6 +273,7 @@ Covers the Dsa progress
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/27vedantkumar/LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/27vedantkumar/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

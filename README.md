@@ -33,6 +33,7 @@ Covers the Dsa progress
 | [0162-find-peak-element](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/27vedantkumar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0414-third-maximum-number](https://github.com/27vedantkumar/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -168,6 +169,7 @@ Covers the Dsa progress
 | [0088-merge-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/27vedantkumar/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |

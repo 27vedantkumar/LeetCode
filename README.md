@@ -31,6 +31,7 @@ Covers the Dsa progress
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/27vedantkumar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/27vedantkumar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0414-third-maximum-number](https://github.com/27vedantkumar/LeetCode/tree/master/0414-third-maximum-number) |
@@ -96,6 +97,7 @@ Covers the Dsa progress
 | [0073-set-matrix-zeroes](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/27vedantkumar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/27vedantkumar/LeetCode/tree/master/0383-ransom-note) |
@@ -167,6 +169,7 @@ Covers the Dsa progress
 | [0018-4sum](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/27vedantkumar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vedant-kumar-27/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/27vedantkumar/LeetCode/tree/master/0414-third-maximum-number) |
